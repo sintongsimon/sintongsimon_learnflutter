@@ -33,7 +33,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  favorite_button: ^0.0.4
+  flutter_riverpod: ^1.0.3
 
 dev_dependencies:
   flutter_test:
@@ -63,6 +63,10 @@ flutter:
     - assets/images/Beep-Beep-Avatar.png
     - assets/images/Beep-Beep-Drifting.png
     - assets/images/Beep-Beep-Medium-Vehicle.png
+    - assets/images/classiccar.png
+    - assets/images/electriccar.png
+    - assets/images/flyingcar.png
+    - assets/images/sportcar.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
